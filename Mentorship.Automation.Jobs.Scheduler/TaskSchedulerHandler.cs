@@ -2,7 +2,7 @@
 
 namespace Mentorship.Automation.Jobs.Scheduler
 {
-    public class Class1
+    public class TaskSchedulerHandler
     {
     }
 }
